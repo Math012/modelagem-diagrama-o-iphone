@@ -52,7 +52,6 @@ public class Menu {
                     break;
             }
         }
-
     }
 
     public void playerMusicaMenu(){
@@ -83,7 +82,6 @@ public class Menu {
                     break;
             }
         }
-
     }
 
     public void internetMenu(){
@@ -115,6 +113,5 @@ public class Menu {
                     break;
             }
         }
-
     }
 }
