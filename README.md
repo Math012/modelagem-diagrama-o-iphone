@@ -2,6 +2,9 @@
 
 ## O projeto foi implementado.
 
+- Java 17.
+- Intellij.
+
 ## Autores
 - [Matheus Silva](https://github.com/Math012)
 
